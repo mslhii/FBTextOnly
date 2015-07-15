@@ -10,6 +10,8 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class TabsAdapter extends FragmentPagerAdapter {
 
+	private final int TABS_COUNT = 3;
+
 	public TabsAdapter(FragmentManager fm) {
 		super(fm);
 	}
@@ -35,7 +37,7 @@ public class TabsAdapter extends FragmentPagerAdapter {
 	@Override
 	public int getCount() {
 		// get item count - equal to number of tabs
-		return 3;
+		return TABS_COUNT;
 	}
 
 }
