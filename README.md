@@ -3,6 +3,6 @@ Adaptation from Twitter SMS only project to Facebook
 
 WIP, slow progress
 
-API:
+FB API:
 <br/>
 https://www.facebook.com/help/170960386370271/
