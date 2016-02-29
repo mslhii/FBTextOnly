@@ -14,10 +14,14 @@ public class LoginActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_login);
 
+		// Disable action bar extras
+		ActionBar ab = getActionBar();
+		ab.hide();
+
 		// Login code, user must have an FB account. We need a shortcode
 
 		// Walk user through login
 
-		// This hould be the first activity
+		// This should be the first activity
 	}
 }
