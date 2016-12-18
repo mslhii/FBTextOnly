@@ -10,7 +10,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class TabsAdapter extends FragmentPagerAdapter {
 
-	final int TABS_COUNT = 3;
+	final int TABS_COUNT = 3; // tabs count
 
 	public TabsAdapter(FragmentManager fm) {
 		super(fm);
