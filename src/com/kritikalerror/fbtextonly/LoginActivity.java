@@ -24,7 +24,5 @@ public class LoginActivity extends Activity {
 
 		// This should be the first activity
 
-
-
 	}
 }
