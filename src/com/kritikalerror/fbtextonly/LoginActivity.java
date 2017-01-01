@@ -23,6 +23,5 @@ public class LoginActivity extends Activity {
 		// Walk user through login
 
 		// This should be the first activity
-
 	}
 }
