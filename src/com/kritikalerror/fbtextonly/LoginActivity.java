@@ -8,6 +8,7 @@ import android.support.v4.view.ViewPager;
 import com.kritikalerror.fbtextonly.R;
 import android.app.Activity;
 
+// Needed?
 public class LoginActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
