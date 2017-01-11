@@ -1,7 +1,7 @@
 # FBTextOnly
 Adaptation from Twitter SMS only project to Facebook. But built from the ground up again, UI and everything
 
-WIP, slow progress. d
+WIP, slow progress. de
 
 FB SMS API:
 <br/>
