@@ -42,7 +42,7 @@ public class MainActivity extends FragmentActivity implements
 		}
 
 		/**
-		 * on swiping the viewpager make respective tab selected
+		 * On swiping the viewpager make respective tab selected
 		 * */
 		viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
 
