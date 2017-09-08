@@ -48,7 +48,7 @@ public class MainActivity extends FragmentActivity implements
 
 			@Override
 			public void onPageSelected(int position) {
-				// On changing the page, make the respected tab selected to us
+				// On changing the page, make the respected tab selected to use
 				actionBar.setSelectedNavigationItem(position);
 			}
 
