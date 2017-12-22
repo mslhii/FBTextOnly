@@ -68,7 +68,7 @@ public class MainActivity extends FragmentActivity implements
 
 	@Override
 	public void onTabSelected(Tab tab, FragmentTransaction ft) {
-		// onTabSelected menu for users
+		// onTabSelected menu for users t
 		// Show respected fragment view to users
 		viewPager.setCurrentItem(tab.getPosition());
 	}
