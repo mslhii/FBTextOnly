@@ -13,7 +13,7 @@ public class SubscriptionsFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		// Display th
+		// Display the
 		View rootView = inflater.inflate(R.layout.fragment_subscriptions, container, false);
 		
 		return rootView;
