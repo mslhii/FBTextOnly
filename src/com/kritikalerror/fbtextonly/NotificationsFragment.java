@@ -13,7 +13,7 @@ public class NotificationsFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		//Display the view to the
+		//Display the view to the u
 		View rootView = inflater.inflate(R.layout.fragment_notifications, container, false);
 		
 		return rootView;
