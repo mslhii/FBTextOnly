@@ -13,7 +13,7 @@ public class MessagesFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		//Disp
+		//Displ
 		View rootView = inflater.inflate(R.layout.fragment_messages, container, false);
 		
 		return rootView;
