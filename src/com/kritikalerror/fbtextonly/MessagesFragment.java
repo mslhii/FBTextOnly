@@ -13,7 +13,7 @@ public class MessagesFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		//Display the view to the use
+		//Display the view to the user
 		View rootView = inflater.inflate(R.layout.fragment_messages, container, false);
 		
 		return rootView;
