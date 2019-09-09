@@ -21,7 +21,7 @@ public class LoginActivity extends Activity {
 
 		// Login code, user must have an FB account. We need a shortcode
 
-		// Walk user through the login pag
+		// Walk user through the login page
 
 		// This should be the first activity
 	}
