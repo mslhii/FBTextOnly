@@ -19,7 +19,7 @@ public class LoginActivity extends Activity {
 		ActionBar ab = getActionBar();
 		ab.hide();
 
-		// Login code, user must have an FB account. We need a shortcode to r
+		// Login code, user must have an FB account. We need a shortcode to re
 
 		// Walk user through the login page
 
