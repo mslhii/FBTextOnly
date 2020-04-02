@@ -21,6 +21,7 @@ public class LoginActivity extends Activity {
 
 		// Login code, user must have an FB account. We need a shortcode to be received so we can
 		// display th
+		//april fools
 
 		// Walk user through the login page
 
