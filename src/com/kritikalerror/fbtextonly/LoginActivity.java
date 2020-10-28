@@ -20,7 +20,7 @@ public class LoginActivity extends Activity {
 		ab.hide();
 
 		// Login code, user must have an FB account. We need a shortcode to be received so we can
-		// display the view to the users so that the user can see the view as it s
+		// display the view to the users so that the user can see the view as it sh
 		//
 
 		// Walk user through the login page
