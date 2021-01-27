@@ -23,7 +23,7 @@ public class LoginActivity extends Activity {
 		// display the view to the users so that the user can see the view as it should be seen.
 		//
 
-		// Walk user through the login page s
+		// Walk user through the login page so
 
 		// This should be the first activity
 	}
